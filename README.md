@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head›
+
 <title›10-MNEMOSYNE GROUP 3</title>
 <style>
 body{border-style: solid; border: double thick; background-color: pink; text-align: center;}
@@ -38,5 +36,4 @@ p#author{color:purple; text-align:center; margin-bottom:100px;}
 <h5>Manalo, Paul Ian</h5>
 <h5>Salas, Bernadeth</h5>
 <p id-author><h5>GROUP 3 10-MNEMOSYNES</p></h5>
-</body>
-</html>
+
